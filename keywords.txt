@@ -1,12 +1,12 @@
 #######################################
-# Syntax Coloring Map For CapSoidSensor
+# Syntax Coloring Map For CapSoilSensor
 #######################################
 
 #######################################
 # Datatypes (KEYWORD1)
 #######################################
 
-CapSoidSensor	KEYWORD1
+CapSoilSensor	KEYWORD1
 
 #######################################
 # Methods and Functions (KEYWORD2)

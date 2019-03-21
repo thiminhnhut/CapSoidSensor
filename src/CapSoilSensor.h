@@ -3,9 +3,9 @@
 
 #include <Arduino.h>
 
-class CapSoidSensor {
+class CapSoilSensor {
 public:
-    CapSoidSensor(uint8_t pin);
+    CapSoilSensor(uint8_t pin);
     float getData();
 private:
     unsigned short int maxValue = 700;

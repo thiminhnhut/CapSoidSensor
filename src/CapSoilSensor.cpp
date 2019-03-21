@@ -1,10 +1,10 @@
-#include "CapSoidSensor.h"
+#include "CapSoilSensor.h"
 
-CapSoidSensor::CapSoidSensor(uint8_t pin) {
+CapSoilSensor::CapSoilSensor(uint8_t pin) {
     _pin = pin;
 }
 
-float CapSoidSensor::getData() {
+float CapSoilSensor::getData() {
     unsigned short int value = analogRead(_pin);
     return map(value, maxValue, minValue, 0, 100);
 }

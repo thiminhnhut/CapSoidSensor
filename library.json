@@ -1,6 +1,6 @@
 {
-    "name": "CapSoidSensor",
-    "keywords": "CapSoidSensor",
+    "name": "CapSoilSensor",
+    "keywords": "CapSoilSensor",
     "description": "Capacitive Soil Moisture Sensor for Arduino, ESP8266",
     "authors": {
         "name": "thiminhnhut",
@@ -11,10 +11,10 @@
     "version": "1.0.0",
     "repository": {
         "type": "git",
-        "url": "https://github.com/thiminhnhut/CapSoidSensor.git"
+        "url": "https://github.com/thiminhnhut/CapSoilSensor.git"
     },
     "export": {
-        "include": "CapSoidSensor"
+        "include": "CapSoilSensor"
     },
     "frameworks": "arduino",
     "platforms": [
