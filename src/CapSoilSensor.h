@@ -1,5 +1,5 @@
-#ifndef CapSoidSensor_h
-#define CapSoidSensor_h
+#ifndef CapSoilSensor_h
+#define CapSoilSensor_h
 
 #include <Arduino.h>
 
